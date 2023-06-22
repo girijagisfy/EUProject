@@ -1,0 +1,370 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminTemplate.master.cs" Inherits="CF.AdminTemplate" %>
+
+<!DOCTYPE html>
+
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+    <!-- Bootstrap 3.3.7 -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css" />
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="bower_components/Ionicons/css/ionicons.min.css" />
+    <!-- Theme style -->
+    <link rel="stylesheet" href="dist/css/AdminLTE.min.css" />
+    <!-- AdminLTE Skins. Choose a skin from the css/skins
+       folder instead of downloading all of them to reduce the load. -->
+    <link rel="stylesheet" href="dist/css/skins/_all-skins.min.css" />
+    <!-- Morris chart -->
+    <link rel="stylesheet" href="bower_components/morris.js/morris.css" />
+    <!-- jvectormap -->
+    <link rel="stylesheet" href="bower_components/jvectormap/jquery-jvectormap.css" />
+    <!-- Date Picker -->
+    <link rel="stylesheet" href="bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css" />
+    <!-- Daterange picker -->
+    <link rel="stylesheet" href="bower_components/bootstrap-daterangepicker/daterangepicker.css" />
+    <!-- bootstrap wysihtml5 - text editor -->
+    <link rel="stylesheet" href="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" />
+
+    <%--<script src="scripts/jquery-3.0.0.min.js"></script>--%>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+    <link href="dist/css/CustomFile.css" rel="stylesheet" />
+
+
+    <!-- Google Font -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic" />
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <%--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.16/css/bootstrap-multiselect.min.css" integrity="sha512-wHTuOcR1pyFeyXVkwg3fhfK46QulKXkLq1kxcEEpjnAPv63B/R49bBqkJHLvoGFq6lvAEKlln2rE1JfIPeQ+iw==" crossorigin="anonymous" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.16/js/bootstrap-multiselect.min.js" integrity="sha512-ljeReA8Eplz6P7m1hwWa+XdPmhawNmo9I0/qyZANCCFvZ845anQE+35TuZl9+velym0TKanM2DXVLxSJLLpQWw==" crossorigin="anonymous"></script>--%>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <title></title>
+    </asp:ContentPlaceHolder>
+    <style>
+        td, th {
+            padding: 8px !important;
+            /*#007a45*/
+        }
+
+        .hiddencol {
+            display: none;
+        }
+
+        /*.skin-blue .main-header li.user-header {
+            background-color: #006f3f;
+        }*/
+    </style>
+
+    <script>
+        function logout() {
+            swal({
+                title: "Are You sure you want to logout ?",
+                icon: "warning",
+                buttons: ["Cancel", "Yes"],
+                dangerMode: true,
+            }).then((willConfirm) => {
+                if (willConfirm) {
+                    window.location.href = "Logout.aspx";
+                }
+                else {
+                }
+            });
+        }
+    </script>
+</head>
+<body class="hold-transition skin-blue fixed sidebar-mini">
+
+    <div class="wrapper">
+        <header class="main-header">
+            <!-- Logo -->
+            <a href="#" class="logo">
+                <!-- mini logo for sidebar mini 50x50 pixels -->
+                <span class="logo-mini"><small>PMKS</small></span>
+                <!-- logo for regular state and mobile devices -->
+                <span class="logo-lg">
+                    <%-- <img src="https://childfundindia.org//wp-content/uploads/2017/04/copy-logor.png" alt="Childfund India Ngo" />--%>
+                    <img src="Images/CFLogo.png" alt="Childfund India Ngo" />
+                    <span>PMKS</span>
+                </span>
+            </a>
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top">
+                <!-- Sidebar toggle button-->
+                <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                </a>
+                <span id="headerText">
+                    <%--<a class="nav-link" id="header" style="color: white; font-size: 25PX; margin-top: 1vh; position: absolute;">Chaild Fund</a>--%>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </span>
+
+                <div class="navbar-custom-menu">
+                    <ul class="nav navbar-nav">
+                        <!-- User Account: style can be found in dropdown.less -->
+                        <li class="dropdown user user-menu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <%--<img src="../../dist/img/user2-160x160.jpg" class="user-image" alt="User Image">--%>
+                                <span style="font-size: 16px;"><%= Session["UserID"]%></span>
+                            </a>
+                            <ul class="dropdown-menu" style="box-shadow: 0px 0px 5px 1px #909090;">
+                                <!-- User image -->
+                                <li class="user-header">
+                                    <%--<img src="../../dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">--%>
+                                    <p>
+                                        <%= Session["UserID"]%>
+                                    </p>
+                                </li>
+                                <!-- Menu Body -->
+                                <%-- <li class="user-body">
+                                    <div class="row">
+                                        <div class="col-xs-4 text-center">
+                                            <a href="#">Followers</a>
+                                        </div>
+                                        <div class="col-xs-4 text-center">
+                                            <a href="#">Sales</a>
+                                        </div>
+                                        <div class="col-xs-4 text-center">
+                                            <a href="#">Friends</a>
+                                        </div>
+                                    </div>
+                                    <!-- /.row -->
+                                </li>--%>
+                                <!-- Menu Footer-->
+                                <li class="user-footer">
+                                    <div class="text-center">
+                                        <a href="#"  data-toggle="modal" data-target="#mdlLogout" class="btn btn-danger">Sign out</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div> 
+            </nav>
+        </header>
+        <!-- Left side column. contains the logo and sidebar -->
+        <aside class="main-sidebar">
+            <!-- sidebar: style can be found in sidebar.less -->
+            <section class="sidebar">
+                <!-- Sidebar user panel -->
+                <%--<div class="user-panel">
+                    <div class="image with-border">
+                        <%--<img src="dist/img/user8-128x128.jpg" class="img-circle elevation-2" alt="Ap Image" />--%>
+                <%--<img src="dist/img/Rajahmundry_Municipal_Corporation_logo.png" style="border-radius: 25%;" class="img-circle" alt="Asset Logo" />
+                    </div>
+                </div>--%>
+                <!-- sidebar menu: : style can be found in sidebar.less -->
+                <ul class="sidebar-menu" data-widget="tree">
+                    <%-- <li class="header">MAIN NAVIGATION</li>--%>
+
+                    <li>
+                        <a href="Dashboard.aspx">
+                            <i class="fa fa-dashboard"></i><span>Dashboard</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liCSO">
+                        <a href="CsoInfo.aspx">
+                            <i class="fa fa-users"></i><span>CSO</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liVillages">
+                        <a href="VillagesInfo.aspx">
+                            <i class="fa fa-home"></i><span>Villages</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liWFG">
+                        <a href="WFGInfo.aspx">
+                            <i class="fa fa-group"></i><span>WFG's</span>
+                        </a>
+                    </li>
+                    <li id="liWF">
+                        <a href="WFInfo.aspx">
+                            <i class="fa fa-user"></i><span>WFs</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liDataManage" class="treeview">
+                        <a href="#">
+                            <i class="fa fa-circle-o"></i>
+                            <span>Data Manage</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li id="liCSOCapacity" runat="server"><a href="CSOCapacityInfo.aspx"><i class="fa fa-file"></i>CSO Capacity Building</a></li>
+                            <li id="liWFDatatrack" runat="server"><a href="WFDataTrackingInfo.aspx"><i class="fa fa-file"></i>WF Data Tracking</a></li>
+                            <li id="liVillageReport" runat="server"><a href="VillageDataReport.aspx"><i class="fa fa-file"></i>Village Data Report</a></li>
+                            <li id="liLogFrame" runat="server"><a href="LogFrameReport.aspx"><i class="fa fa-file"></i>Log Frame Indicator</a></li>
+                           <%-- <li id="liCSOCapacityReport" runat="server"><a href="CSOCapacityReport.aspx"><i class="fa fa-file"></i>CSO Capacity Report</a></li>--%>
+                        </ul>
+                    </li>
+                    <%--<li runat="server" id="liWFIndicator">
+                        <a href="WFIndicatorInfo.aspx">
+                            <i class="fa fa-user"></i><span>WFs Indicator</span>
+                        </a>
+                    </li>--%>
+                    <li runat="server" id="liWFAssign">
+                        <a href="WFAssignPage.aspx">
+                            <i class="fa fa-group"></i><span>Transfer WFs</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liFPC">
+                        <a href="FPCInfo.aspx">
+                            <i class="fa fa-group"></i><span>FPC</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liStates">
+                        <a href="StatesInfo.aspx">
+                            <i class="fa fa-map"></i><span>States</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liDistricts">
+                        <a href="DistrictsInfo.aspx">
+                            <i class="fa fa-map"></i><span>Districts</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liBlocks">
+                        <a href="BlocksInfo.aspx">
+                            <i class="fa fa-map"></i><span>Blocks</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liVillageList">
+                        <a href="VillagesList.aspx">
+                            <i class="fa fa-map"></i><span>Villages List</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liUsers">
+                        <a href="UsersInfo.aspx">
+                            <i class="fa fa-user"></i><span>Master Users</span>
+                        </a>
+                    </li>
+                    <li id="liDocs" runat="server" class="treeview">
+                        <a href="#">
+                            <i class="fa fa-file"></i>
+                            <span>Documents</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li id="liCSODocs"><a href="CSODocs.aspx"><i class="fa fa-file"></i>CSO Docs</a></li>
+                            <li id="liWFGDocs"><a href="WFGDocs.aspx"><i class="fa fa-file"></i>WFG Docs</a></li>
+                            <li id="liWFDocs"><a href="WFDocs.aspx"><i class="fa fa-file"></i>WF Docs</a></li>
+                        </ul>
+                    </li>
+                    <li runat="server" id="liEmail">
+                        <a href="VerfyEmail.aspx">
+                            <i class="fa fa-user"></i><span>Verify Email</span>
+                        </a>
+                    </li>
+                    <%--<li runat="server" id="liGallery">
+                        <a href="GalleryInfo.aspx">
+                            <i class="fa fa-user"></i><span>Gallery</span>
+                        </a>
+                    </li>
+                    <li runat="server" id="liInnovation">
+                        <a href="InnovationInfo.aspx">
+                            <i class="fa fa-user"></i><span>Innovation</span>
+                        </a>
+                    </li>--%>
+                </ul>
+            </section>
+            <!-- /.sidebar -->
+        </aside>
+
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            <!-- Main content -->
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <!-- /.content -->
+        </div>
+        <!-- /.content-wrapper -->
+        <footer class="main-footer" style="text-align: center; background-color: #006f3f; color: white">
+            <strong>Copyright &copy; 2021 <a href="https://childfundindia.org/" style="color: #f39c12" target="_blank">ChildFund India</a>.</strong> Developed and Managed by.
+            <a href="https://gisfy.co.in/" target="_blank">
+                <img src="Images/gisfy.png" style="height: 30px;" /></a>
+        </footer>
+    </div>
+
+      <!-- Modal -->
+  <div class="modal fade" id="mdlLogout" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">warning</h4>
+        </div>
+        <div class="modal-body">
+
+            <h2>Are You sure you want to logout ?</h2>
+
+        
+        </div>
+        <div class="modal-footer">
+              <a href="Logout.aspx"  target="_blank"  class="btn btn-danger">Yes</a>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+    <!-- ./wrapper -->
+
+
+
+
+
+
+    <!-- jQuery 3 -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- jQuery UI 1.11.4 -->
+    <script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
+    <!-- Bootstrap 3.3.7 -->
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- Bootstrap WYSIHTML5 -->
+    <script src="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+    <!-- Slimscroll -->
+    <script src="bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+    <!-- FastClick -->
+    <script src="bower_components/fastclick/lib/fastclick.js"></script>
+    <!-- AdminLTE App -->
+    <script src="dist/js/adminlte.min.js"></script>
+
+    <script src="bower_components/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+
+    <script src="scripts/jquery-3.0.0.min.js"></script>
+    <!-- Add Active Class To Side Bar -->
+    <script>
+
+        $('.datePicker').datepicker({
+            autoclose: true
+        });
+
+        var url = window.location;
+        // for sidebar menu but not for treeview submenu
+        $('ul.sidebar-menu a').filter(function () {
+            return this.href == url;
+        }).parent().siblings().removeClass('active').end().addClass('active');
+        // for treeview which is like a submenu
+        $('ul.treeview-menu a').filter(function () {
+            return this.href == url;
+        }).parentsUntil(".sidebar-menu > .treeview-menu").siblings().removeClass('active menu-open').end().addClass('active menu-open');
+    </script>
+</body>
+</html>

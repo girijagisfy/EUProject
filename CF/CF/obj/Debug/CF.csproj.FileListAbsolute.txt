@@ -1,0 +1,900 @@
+G:\Gisfy\ChildFund\CF\CF\bin\ApplicationInsights.config
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\csc.exe
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\vbc.exe
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\VBCSCompiler.exe
+G:\Gisfy\ChildFund\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+G:\Gisfy\ChildFund\CF\CF\bin\CF.dll
+G:\Gisfy\ChildFund\CF\CF\bin\CF.pdb
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.Web.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Newtonsoft.Json.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Npgsql.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Buffers.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Memory.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Net.Http.Formatting.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Numerics.Vectors.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Text.Encodings.Web.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Text.Json.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.ValueTuple.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Web.Http.dll
+G:\Gisfy\ChildFund\CF\CF\bin\System.Web.Http.WebHost.dll
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.Web.xml
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.xml
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Gisfy\ChildFund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Gisfy\ChildFund\CF\CF\bin\Npgsql.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Buffers.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Memory.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Numerics.Vectors.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Text.Encodings.Web.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Text.Json.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.ValueTuple.xml
+G:\Gisfy\ChildFund\CF\CF\bin\Newtonsoft.Json.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Net.Http.Formatting.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Web.Http.xml
+G:\Gisfy\ChildFund\CF\CF\bin\System.Web.Http.WebHost.xml
+G:\Gisfy\ChildFund\CF\CF\obj\Debug\CF.dll
+G:\Gisfy\ChildFund\CF\CF\obj\Debug\CF.pdb
+G:\Gisfy\ChildFund\CF\CF\bin\CF.dll.config
+G:\Gisfy\ChildFund\CF\CF\obj\Debug\CF.csprojResolveAssemblyReference.cache
+D:\CF\CF\bin\ApplicationInsights.config
+D:\CF\CF\bin\roslyn\csc.exe
+D:\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+D:\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+D:\CF\CF\bin\roslyn\vbc.exe
+D:\CF\CF\bin\roslyn\VBCSCompiler.exe
+D:\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+D:\CF\CF\bin\CF.dll.config
+D:\CF\CF\bin\CF.dll
+D:\CF\CF\bin\CF.pdb
+D:\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+D:\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CF\CF\bin\Microsoft.AI.Web.dll
+D:\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+D:\CF\CF\bin\Microsoft.ApplicationInsights.dll
+D:\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CF\CF\bin\Newtonsoft.Json.dll
+D:\CF\CF\bin\Npgsql.dll
+D:\CF\CF\bin\System.Buffers.dll
+D:\CF\CF\bin\System.Memory.dll
+D:\CF\CF\bin\System.Net.Http.Formatting.dll
+D:\CF\CF\bin\System.Numerics.Vectors.dll
+D:\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CF\CF\bin\System.Text.Encodings.Web.dll
+D:\CF\CF\bin\System.Text.Json.dll
+D:\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+D:\CF\CF\bin\System.ValueTuple.dll
+D:\CF\CF\bin\System.Web.Http.dll
+D:\CF\CF\bin\System.Web.Http.WebHost.dll
+D:\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+D:\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CF\CF\bin\Microsoft.AI.Web.xml
+D:\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+D:\CF\CF\bin\Microsoft.ApplicationInsights.xml
+D:\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CF\CF\bin\Npgsql.xml
+D:\CF\CF\bin\System.Buffers.xml
+D:\CF\CF\bin\System.Memory.xml
+D:\CF\CF\bin\System.Numerics.Vectors.xml
+D:\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CF\CF\bin\System.Text.Encodings.Web.xml
+D:\CF\CF\bin\System.Text.Json.xml
+D:\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+D:\CF\CF\bin\System.ValueTuple.xml
+D:\CF\CF\bin\Newtonsoft.Json.xml
+D:\CF\CF\bin\System.Net.Http.Formatting.xml
+D:\CF\CF\bin\System.Web.Http.xml
+D:\CF\CF\bin\System.Web.Http.WebHost.xml
+D:\CF\CF\obj\Debug\CF.dll
+D:\CF\CF\obj\Debug\CF.pdb
+C:\Users\admin\Desktop\CF\CF\CF\bin\ApplicationInsights.config
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\CF\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\CF\CF\CF\bin\CF.dll.config
+C:\Users\admin\Desktop\CF\CF\CF\bin\CF.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\CF.pdb
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Npgsql.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Buffers.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Memory.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Text.Json.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.ValueTuple.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Web.Http.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\Npgsql.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Buffers.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Memory.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Text.Json.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.ValueTuple.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\CF\CF\CF\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\CF\CF\CF\obj\Debug\CF.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CF\CF\CF\obj\Debug\CF.dll
+C:\Users\admin\Desktop\CF\CF\CF\obj\Debug\CF.pdb
+C:\Users\admin\Desktop\CF\CF\CF\bin\AjaxControlToolkit.dll
+C:\Projects\ChildFound\CF\CF\bin\ApplicationInsights.config
+C:\Projects\ChildFound\CF\CF\bin\roslyn\csc.exe
+C:\Projects\ChildFound\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\ChildFound\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\ChildFound\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\ChildFound\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\ChildFound\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\ChildFound\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\ChildFound\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\ChildFound\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\ChildFound\CF\CF\bin\roslyn\vbc.exe
+C:\Projects\ChildFound\CF\CF\bin\roslyn\VBCSCompiler.exe
+C:\Projects\ChildFound\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\ChildFound\CF\CF\bin\CF.dll.config
+C:\Projects\ChildFound\CF\CF\bin\CF.dll
+C:\Projects\ChildFound\CF\CF\bin\CF.pdb
+C:\Projects\ChildFound\CF\CF\bin\AjaxControlToolkit.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.Web.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\ChildFound\CF\CF\bin\Newtonsoft.Json.dll
+C:\Projects\ChildFound\CF\CF\bin\Npgsql.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Buffers.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Memory.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Net.Http.Formatting.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Numerics.Vectors.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Text.Encodings.Web.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Text.Json.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+C:\Projects\ChildFound\CF\CF\bin\System.ValueTuple.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Web.Http.dll
+C:\Projects\ChildFound\CF\CF\bin\System.Web.Http.WebHost.dll
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.Web.xml
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\ChildFound\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\ChildFound\CF\CF\bin\Npgsql.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Buffers.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Memory.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Numerics.Vectors.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Text.Encodings.Web.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Text.Json.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+C:\Projects\ChildFound\CF\CF\bin\System.ValueTuple.xml
+C:\Projects\ChildFound\CF\CF\bin\Newtonsoft.Json.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Net.Http.Formatting.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Web.Http.xml
+C:\Projects\ChildFound\CF\CF\bin\System.Web.Http.WebHost.xml
+C:\Projects\ChildFound\CF\CF\obj\Debug\CF.dll
+C:\Projects\ChildFound\CF\CF\obj\Debug\CF.pdb
+C:\Projects\ChildFund\CF\CF\bin\ApplicationInsights.config
+C:\Projects\ChildFund\CF\CF\bin\roslyn\csc.exe
+C:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\ChildFund\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\ChildFund\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\ChildFund\CF\CF\bin\roslyn\vbc.exe
+C:\Projects\ChildFund\CF\CF\bin\roslyn\VBCSCompiler.exe
+C:\Projects\ChildFund\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\ChildFund\CF\CF\bin\CF.dll.config
+C:\Projects\ChildFund\CF\CF\bin\CF.dll
+C:\Projects\ChildFund\CF\CF\bin\CF.pdb
+C:\Projects\ChildFund\CF\CF\bin\AjaxControlToolkit.dll
+C:\Projects\ChildFund\CF\CF\bin\DocumentFormat.OpenXml.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.Web.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\ChildFund\CF\CF\bin\Newtonsoft.Json.dll
+C:\Projects\ChildFund\CF\CF\bin\Npgsql.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Buffers.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Memory.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Net.Http.Formatting.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Numerics.Vectors.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Text.Encodings.Web.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Text.Json.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+C:\Projects\ChildFund\CF\CF\bin\System.ValueTuple.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Web.Http.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Web.Http.WebHost.dll
+C:\Projects\ChildFund\CF\CF\bin\DocumentFormat.OpenXml.xml
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.Web.xml
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\ChildFund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\ChildFund\CF\CF\bin\Npgsql.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Buffers.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Memory.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Numerics.Vectors.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Text.Encodings.Web.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Text.Json.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+C:\Projects\ChildFund\CF\CF\bin\System.ValueTuple.xml
+C:\Projects\ChildFund\CF\CF\bin\Newtonsoft.Json.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Net.Http.Formatting.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Web.Http.xml
+C:\Projects\ChildFund\CF\CF\bin\System.Web.Http.WebHost.xml
+C:\Projects\ChildFund\CF\CF\obj\Debug\CF.dll
+C:\Projects\ChildFund\CF\CF\obj\Debug\CF.pdb
+D:\CF\CF\bin\AjaxControlToolkit.dll
+D:\CF\CF\bin\DocumentFormat.OpenXml.dll
+D:\CF\CF\bin\DocumentFormat.OpenXml.xml
+D:\CF\CF\obj\Debug\CF.csprojAssemblyReference.cache
+D:\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+D:\CF\CF\obj\Debug\CF.csproj.CopyComplete
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\ApplicationInsights.config
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\csc.exe
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\vbc.exe
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\VBCSCompiler.exe
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\CF.dll.config
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\CF.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\CF.pdb
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\AjaxControlToolkit.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\DocumentFormat.OpenXml.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.Web.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.ApplicationInsights.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Newtonsoft.Json.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Npgsql.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Buffers.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Memory.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Net.Http.Formatting.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Numerics.Vectors.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Text.Encodings.Web.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Text.Json.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.ValueTuple.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Web.Http.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Web.Http.WebHost.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\DocumentFormat.OpenXml.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.Web.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.ApplicationInsights.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Npgsql.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Buffers.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Memory.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Numerics.Vectors.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Text.Encodings.Web.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Text.Json.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.ValueTuple.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\Newtonsoft.Json.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Net.Http.Formatting.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Web.Http.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\bin\System.Web.Http.WebHost.xml
+D:\Pankaja\ChildFundNewcode\CF\CF\obj\Debug\CF.csprojResolveAssemblyReference.cache
+D:\Pankaja\ChildFundNewcode\CF\CF\obj\Debug\CF.dll
+D:\Pankaja\ChildFundNewcode\CF\CF\obj\Debug\CF.pdb
+C:\Projects\ChildFund\CF\CF\bin\System.Web.Cors.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Web.Http.Cors.dll
+C:\Projects\ChildFund\CF\CF\bin\System.Web.Http.Cors.xml
+C:\Projects\ChildFund\CF\CF\obj\Debug\CF.csprojResolveAssemblyReference.cache
+D:\Goutham\Childfund\CF\CF\bin\ApplicationInsights.config
+D:\Goutham\Childfund\CF\CF\bin\roslyn\csc.exe
+D:\Goutham\Childfund\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Goutham\Childfund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Goutham\Childfund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Goutham\Childfund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Goutham\Childfund\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Goutham\Childfund\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Goutham\Childfund\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+D:\Goutham\Childfund\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+D:\Goutham\Childfund\CF\CF\bin\roslyn\vbc.exe
+D:\Goutham\Childfund\CF\CF\bin\roslyn\VBCSCompiler.exe
+D:\Goutham\Childfund\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+D:\Goutham\Childfund\CF\CF\bin\CF.dll.config
+D:\Goutham\Childfund\CF\CF\bin\CF.dll
+D:\Goutham\Childfund\CF\CF\bin\CF.pdb
+D:\Goutham\Childfund\CF\CF\bin\AjaxControlToolkit.dll
+D:\Goutham\Childfund\CF\CF\bin\DocumentFormat.OpenXml.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.Web.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.ApplicationInsights.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Goutham\Childfund\CF\CF\bin\Newtonsoft.Json.dll
+D:\Goutham\Childfund\CF\CF\bin\Npgsql.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Buffers.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Memory.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Net.Http.Formatting.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Numerics.Vectors.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Text.Encodings.Web.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Text.Json.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+D:\Goutham\Childfund\CF\CF\bin\System.ValueTuple.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Web.Cors.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Web.Http.Cors.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Web.Http.dll
+D:\Goutham\Childfund\CF\CF\bin\System.Web.Http.WebHost.dll
+D:\Goutham\Childfund\CF\CF\bin\DocumentFormat.OpenXml.xml
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.Web.xml
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.ApplicationInsights.xml
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Goutham\Childfund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Goutham\Childfund\CF\CF\bin\Npgsql.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Buffers.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Memory.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Net.Http.Formatting.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Numerics.Vectors.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Text.Encodings.Web.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Text.Json.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+D:\Goutham\Childfund\CF\CF\bin\System.ValueTuple.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Web.Http.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Web.Http.Cors.xml
+D:\Goutham\Childfund\CF\CF\bin\Newtonsoft.Json.xml
+D:\Goutham\Childfund\CF\CF\bin\System.Web.Http.WebHost.xml
+D:\Goutham\Childfund\CF\CF\obj\Debug\CF.csprojAssemblyReference.cache
+D:\Goutham\Childfund\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+D:\Goutham\Childfund\CF\CF\obj\Debug\CF.csproj.CopyComplete
+D:\Goutham\Childfund\CF\CF\obj\Debug\CF.dll
+D:\Goutham\Childfund\CF\CF\obj\Debug\CF.pdb
+C:\Users\Administrator\Downloads\CF\CF\bin\ApplicationInsights.config
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\csc.exe
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\vbc.exe
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Downloads\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Downloads\CF\CF\bin\CF.dll.config
+C:\Users\Administrator\Downloads\CF\CF\bin\CF.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\CF.pdb
+C:\Users\Administrator\Downloads\CF\CF\bin\AjaxControlToolkit.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\Npgsql.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Buffers.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Memory.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Numerics.Vectors.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Text.Json.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.ValueTuple.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Web.Cors.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Web.Http.Cors.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Web.Http.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Downloads\CF\CF\bin\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Npgsql.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Buffers.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Memory.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Numerics.Vectors.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Text.Encodings.Web.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Text.Json.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.ValueTuple.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Web.Http.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Web.Http.Cors.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\CF\CF\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Downloads\CF\CF\obj\Debug\CF.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\CF\CF\obj\Debug\CF.csproj.CopyComplete
+C:\Users\Administrator\Downloads\CF\CF\obj\Debug\CF.dll
+C:\Users\Administrator\Downloads\CF\CF\obj\Debug\CF.pdb
+D:\Projects\ChildFund\CF\CF\bin\ApplicationInsights.config
+D:\Projects\ChildFund\CF\CF\bin\roslyn\csc.exe
+D:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\ChildFund\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\ChildFund\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\ChildFund\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\ChildFund\CF\CF\bin\roslyn\vbc.exe
+D:\Projects\ChildFund\CF\CF\bin\roslyn\VBCSCompiler.exe
+D:\Projects\ChildFund\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\ChildFund\CF\CF\bin\CF.dll.config
+D:\Projects\ChildFund\CF\CF\bin\CF.dll
+D:\Projects\ChildFund\CF\CF\bin\CF.pdb
+D:\Projects\ChildFund\CF\CF\bin\AjaxControlToolkit.dll
+D:\Projects\ChildFund\CF\CF\bin\ClosedXML.dll
+D:\Projects\ChildFund\CF\CF\bin\DocumentFormat.OpenXml.dll
+D:\Projects\ChildFund\CF\CF\bin\ExcelNumberFormat.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.Web.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\ChildFund\CF\CF\bin\Newtonsoft.Json.dll
+D:\Projects\ChildFund\CF\CF\bin\Npgsql.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Buffers.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Memory.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Net.Http.Formatting.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Numerics.Vectors.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Text.Encodings.Web.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Text.Json.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+D:\Projects\ChildFund\CF\CF\bin\System.ValueTuple.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Web.Cors.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Web.Http.Cors.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Web.Http.dll
+D:\Projects\ChildFund\CF\CF\bin\System.Web.Http.WebHost.dll
+D:\Projects\ChildFund\CF\CF\bin\ClosedXML.pdb
+D:\Projects\ChildFund\CF\CF\bin\ClosedXML.xml
+D:\Projects\ChildFund\CF\CF\bin\DocumentFormat.OpenXml.xml
+D:\Projects\ChildFund\CF\CF\bin\ExcelNumberFormat.xml
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.Web.xml
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\ChildFund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\ChildFund\CF\CF\bin\Npgsql.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Buffers.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Memory.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Net.Http.Formatting.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Numerics.Vectors.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Text.Encodings.Web.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Text.Json.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+D:\Projects\ChildFund\CF\CF\bin\System.ValueTuple.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Web.Http.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Web.Http.Cors.xml
+D:\Projects\ChildFund\CF\CF\bin\Newtonsoft.Json.xml
+D:\Projects\ChildFund\CF\CF\bin\System.Web.Http.WebHost.xml
+D:\Projects\ChildFund\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+D:\Projects\ChildFund\CF\CF\obj\Debug\CF.csproj.CopyComplete
+D:\Projects\ChildFund\CF\CF\obj\Debug\CF.dll
+D:\Projects\ChildFund\CF\CF\obj\Debug\CF.pdb
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\ApplicationInsights.config
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\csc.exe
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\vbc.exe
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\CF.dll.config
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\CF.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\CF.pdb
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\AjaxControlToolkit.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\ClosedXML.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\DocumentFormat.OpenXml.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\ExcelNumberFormat.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.Web.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Newtonsoft.Json.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Npgsql.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Buffers.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Memory.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Net.Http.Formatting.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Numerics.Vectors.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Text.Encodings.Web.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Text.Json.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.ValueTuple.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Web.Cors.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Web.Http.Cors.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Web.Http.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Web.Http.WebHost.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\ClosedXML.pdb
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\ClosedXML.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\DocumentFormat.OpenXml.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\ExcelNumberFormat.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.Web.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Npgsql.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Buffers.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Memory.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Net.Http.Formatting.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Numerics.Vectors.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Text.Encodings.Web.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Text.Json.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.ValueTuple.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Web.Http.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Web.Http.Cors.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\Newtonsoft.Json.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\bin\System.Web.Http.WebHost.xml
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.AssemblyReference.cache
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.CopyComplete
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\obj\Debug\CF.dll
+C:\Users\Girija (From Gisfy)\Downloads\ChildFund\CF\CF\CF\obj\Debug\CF.pdb
+C:\Gisfy\ChildFund\CF\CF\CF\bin\ApplicationInsights.config
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\csc.exe
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\vbc.exe
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\VBCSCompiler.exe
+C:\Gisfy\ChildFund\CF\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+C:\Gisfy\ChildFund\CF\CF\CF\bin\CF.dll.config
+C:\Gisfy\ChildFund\CF\CF\CF\bin\CF.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\CF.pdb
+C:\Gisfy\ChildFund\CF\CF\CF\bin\AjaxControlToolkit.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\ClosedXML.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\DocumentFormat.OpenXml.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\ExcelNumberFormat.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.Web.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.ApplicationInsights.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Newtonsoft.Json.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Npgsql.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Buffers.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Memory.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Net.Http.Formatting.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Numerics.Vectors.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Text.Encodings.Web.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Text.Json.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.ValueTuple.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Web.Cors.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Web.Http.Cors.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Web.Http.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Web.Http.WebHost.dll
+C:\Gisfy\ChildFund\CF\CF\CF\bin\ClosedXML.pdb
+C:\Gisfy\ChildFund\CF\CF\CF\bin\ClosedXML.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\DocumentFormat.OpenXml.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\ExcelNumberFormat.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.Web.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.ApplicationInsights.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Npgsql.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Buffers.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Memory.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Net.Http.Formatting.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Numerics.Vectors.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Text.Encodings.Web.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Text.Json.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.ValueTuple.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Web.Http.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Web.Http.Cors.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\Newtonsoft.Json.xml
+C:\Gisfy\ChildFund\CF\CF\CF\bin\System.Web.Http.WebHost.xml
+C:\Gisfy\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.AssemblyReference.cache
+C:\Gisfy\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+C:\Gisfy\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.CopyComplete
+C:\Gisfy\ChildFund\CF\CF\CF\obj\Debug\CF.dll
+C:\Gisfy\ChildFund\CF\CF\CF\obj\Debug\CF.pdb
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\ApplicationInsights.config
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\csc.exe
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\vbc.exe
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\VBCSCompiler.exe
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\CF.dll.config
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\CF.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\CF.pdb
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\AjaxControlToolkit.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\ClosedXML.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\DocumentFormat.OpenXml.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\ExcelNumberFormat.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.Web.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.ApplicationInsights.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Newtonsoft.Json.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Npgsql.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Buffers.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Memory.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Net.Http.Formatting.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Numerics.Vectors.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Text.Encodings.Web.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Text.Json.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.ValueTuple.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Web.Cors.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Web.Http.Cors.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Web.Http.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Web.Http.WebHost.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\ClosedXML.pdb
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\ClosedXML.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\DocumentFormat.OpenXml.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\ExcelNumberFormat.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.Web.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.ApplicationInsights.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Npgsql.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Buffers.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Memory.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Net.Http.Formatting.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Numerics.Vectors.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Text.Encodings.Web.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Text.Json.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.ValueTuple.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Web.Http.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Web.Http.Cors.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\Newtonsoft.Json.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\bin\System.Web.Http.WebHost.xml
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.AssemblyReference.cache
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\obj\Debug\CF.csproj.CopyComplete
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\obj\Debug\CF.dll
+C:\Gisfy\ChildFund Project\ChildFund\CF\CF\CF\obj\Debug\CF.pdb
+D:\Projects\ChildFund\CF\CF\obj\Debug\CF.csproj.AssemblyReference.cache
+D:\ChildFund\CF\CF\bin\ApplicationInsights.config
+D:\ChildFund\CF\CF\bin\roslyn\csc.exe
+D:\ChildFund\CF\CF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ChildFund\CF\CF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ChildFund\CF\CF\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ChildFund\CF\CF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ChildFund\CF\CF\bin\roslyn\System.Collections.Immutable.dll
+D:\ChildFund\CF\CF\bin\roslyn\System.Reflection.Metadata.dll
+D:\ChildFund\CF\CF\bin\roslyn\vbc.exe
+D:\ChildFund\CF\CF\bin\roslyn\VBCSCompiler.exe
+D:\ChildFund\CF\CF\bin\roslyn\VBCSCompiler.exe.config
+D:\ChildFund\CF\CF\bin\CF.dll.config
+D:\ChildFund\CF\CF\bin\CF.dll
+D:\ChildFund\CF\CF\bin\CF.pdb
+D:\ChildFund\CF\CF\bin\AjaxControlToolkit.dll
+D:\ChildFund\CF\CF\bin\ClosedXML.dll
+D:\ChildFund\CF\CF\bin\DocumentFormat.OpenXml.dll
+D:\ChildFund\CF\CF\bin\ExcelNumberFormat.dll
+D:\ChildFund\CF\CF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.dll
+D:\ChildFund\CF\CF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ChildFund\CF\CF\bin\Microsoft.AI.Web.dll
+D:\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.dll
+D:\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.dll
+D:\ChildFund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ChildFund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ChildFund\CF\CF\bin\Newtonsoft.Json.dll
+D:\ChildFund\CF\CF\bin\Npgsql.dll
+D:\ChildFund\CF\CF\bin\System.Buffers.dll
+D:\ChildFund\CF\CF\bin\System.Memory.dll
+D:\ChildFund\CF\CF\bin\System.Net.Http.Formatting.dll
+D:\ChildFund\CF\CF\bin\System.Numerics.Vectors.dll
+D:\ChildFund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ChildFund\CF\CF\bin\System.Text.Encodings.Web.dll
+D:\ChildFund\CF\CF\bin\System.Text.Json.dll
+D:\ChildFund\CF\CF\bin\System.Threading.Tasks.Extensions.dll
+D:\ChildFund\CF\CF\bin\System.ValueTuple.dll
+D:\ChildFund\CF\CF\bin\System.Web.Cors.dll
+D:\ChildFund\CF\CF\bin\System.Web.Http.Cors.dll
+D:\ChildFund\CF\CF\bin\System.Web.Http.dll
+D:\ChildFund\CF\CF\bin\System.Web.Http.WebHost.dll
+D:\ChildFund\CF\CF\bin\ClosedXML.pdb
+D:\ChildFund\CF\CF\bin\ClosedXML.xml
+D:\ChildFund\CF\CF\bin\DocumentFormat.OpenXml.xml
+D:\ChildFund\CF\CF\bin\ExcelNumberFormat.xml
+D:\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.xml
+D:\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ChildFund\CF\CF\bin\Microsoft.AI.Web.xml
+D:\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.xml
+D:\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.xml
+D:\ChildFund\CF\CF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ChildFund\CF\CF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ChildFund\CF\CF\bin\Npgsql.xml
+D:\ChildFund\CF\CF\bin\System.Buffers.xml
+D:\ChildFund\CF\CF\bin\System.Memory.xml
+D:\ChildFund\CF\CF\bin\System.Net.Http.Formatting.xml
+D:\ChildFund\CF\CF\bin\System.Numerics.Vectors.xml
+D:\ChildFund\CF\CF\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ChildFund\CF\CF\bin\System.Text.Encodings.Web.xml
+D:\ChildFund\CF\CF\bin\System.Text.Json.xml
+D:\ChildFund\CF\CF\bin\System.Threading.Tasks.Extensions.xml
+D:\ChildFund\CF\CF\bin\System.ValueTuple.xml
+D:\ChildFund\CF\CF\bin\System.Web.Http.xml
+D:\ChildFund\CF\CF\bin\System.Web.Http.Cors.xml
+D:\ChildFund\CF\CF\bin\Newtonsoft.Json.xml
+D:\ChildFund\CF\CF\bin\System.Web.Http.WebHost.xml
+D:\ChildFund\CF\CF\obj\Debug\CF.csproj.AssemblyReference.cache
+D:\ChildFund\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+D:\ChildFund\CF\CF\obj\Debug\CF.csproj.CopyComplete
+D:\ChildFund\CF\CF\obj\Debug\CF.dll
+D:\ChildFund\CF\CF\obj\Debug\CF.pdb
+D:\ChildFund\CF\CF\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\ChildFund\CF\CF\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ChildFund\CF\CF\bin\Microsoft.AI.DependencyCollector.pdb
+D:\ChildFund\CF\CF\bin\Microsoft.AI.PerfCounterCollector.pdb
+D:\ChildFund\CF\CF\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\ChildFund\CF\CF\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\ChildFund\CF\CF\bin\Microsoft.AI.Web.pdb
+D:\ChildFund\CF\CF\bin\Microsoft.AI.WindowsServer.pdb
+D:\ChildFund\CF\CF\bin\Microsoft.ApplicationInsights.pdb
+D:\ChildFund\CF\CF\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\ChildFund\CF\CF\bin\System.Diagnostics.DiagnosticSource.xml
